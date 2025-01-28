@@ -1,8 +1,7 @@
-## Hey!!
+## Hi there!!!
 
-Welcome to my **github!** in my pinned are actual projects that you may find useful; there's a ton of repos to filter through otherwise, so hopefully that makes it a little easier to find what's good!
+Seems you found my github. welcome!!! in my pinned are actual projects that you may find useful; there's a ton of repos to filter through otherwise, so hopefully that makes it a little easier to find what's good!
 
-You should ALSO check out my personal website [here](https://alexren.me)
+Personal site exists [here](https://alexren.me). Check it out I think
 
-WIP!!
-
+uhhh fun fact: i visited github hq TWICE!!!
