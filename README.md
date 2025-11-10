@@ -1,7 +1,7 @@
-## Hi there!!
+## Hi there!
 
-Seems you found my github. welcome!!! in my pinned are actual projects that you may find useful; there's a ton of repos to filter through otherwise, so hopefully that makes it a little easier to find what's good!
+Seems you found my github. welcome!! in my pinned are actual projects that you may find useful/interesting.
 
-Personal site exists [here](https://alexren.me). Check it out I think
+Personal site [here](https://alexren.me)! A little dated. will probably remake this one soon
 
-uhhh fun fact: i hosted a hardware hackathon at github hq!! video [here](https://www.youtube.com/watch?v=kaEFv7e49mo)
+Fun fact ab me: I hosted a 4-day hardware hackathon at github headquarters! video [here](https://www.youtube.com/watch?v=kaEFv7e49mo)
