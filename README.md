@@ -1,6 +1,6 @@
 ## Hi there!
 
-Seems you found my github. welcome!! in my pinned are actual projects that you may find useful/interesting.
+Seems you found my github. welcome!! In my pinned are actual projects that you may find useful and/or interesting. The rest may leave a little to be desired
 
 Personal site [here](https://alexren.me)! A little dated. will probably remake this one soon
 
